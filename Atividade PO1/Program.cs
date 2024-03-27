@@ -10,7 +10,7 @@ do
     {
         Console.WriteLine("Adicione o primeiro numero:");
         int num1 = int.Parse(Console.ReadLine());
-        Console.WriteLine("Informe o peso:");
+        Console.WriteLine("Adicione o segundo numero");
         int num2 = int.Parse(Console.ReadLine());
 
         SomaDoisNumeros soma = new SomaDoisNumeros();
